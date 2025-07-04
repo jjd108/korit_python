@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c29f7f5-1030-4c5c-8ef8-d04a3f84f263" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collection/05_operator/operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/collection/05_operator/operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_ while/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_ while/while.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,11 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sky" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
