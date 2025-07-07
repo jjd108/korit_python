@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c29f7f5-1030-4c5c-8ef8-d04a3f84f263" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_ while/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_ while/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_for/for.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_for/for.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +38,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.bulit_in_func.executor": "Run",
     "Python.collection.executor": "Run",
     "Python.didctionere.executor": "Run",
+    "Python.for.executor": "Run",
     "Python.if.executor": "Run",
     "Python.operator.executor": "Run",
     "Python.set.executor": "Run",
