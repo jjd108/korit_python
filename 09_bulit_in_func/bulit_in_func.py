@@ -139,8 +139,12 @@ date = ["apple", "banana", "cherry", "grape", "mango", "blueberry","lamon"]
 #1. apple
 #2. banana
 # 인덱스가 짝수인 요소만 출력 (인덱스: 요소)
+for i, item in enumerate(date):
+   if i % 2 == 0:
+       print(f"인덱스: {i}, 값:{item}")
+
+
 
 for i, value in enumerate(date):
     print(f"{i + 1}. {value}")
-
 
