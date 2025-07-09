@@ -132,17 +132,23 @@ from email.charset import add_alias
 
 #매개변수로 리스트를 전달 받아서 해당 리스트 짝수면 짝수, 홀수면 홀수
 #바뀐 리스트를 구하시오
+# num_list = [11, 16, 88, 75, 46, 97, 3, 14]
+#
+#  def parity(num_list):
+#     if num_list % 2 == 0:
+#         return "짝수"
+#     else:
+#         return "홀수"
+#
+# parity = lambda num: "짝수" if num % 2 == 0 else "홀수"
+# print(parity(10))
+
 num_list = [11, 16, 88, 75, 46, 97, 3, 14]
 
- def parity(num_list):
-    if num_list % 2 == 0:
-        return "짝수"
-    else:
-        return "홀수"
+def parity(number_list):
+    result  = list(map(lambda x: "짝수" if x % 2 == 0 else "홀수", num_list))
+    return result
 
-parity = lambda num: "짝수" if num % 2 == 0 else "홀수"
-print(parity(10))
-
-
+print(parity(num_list))
 
 

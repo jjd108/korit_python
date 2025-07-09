@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c29f7f5-1030-4c5c-8ef8-d04a3f84f263" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_bulit_in_func/bulit_in_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_bulit_in_func/bulit_in_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_func/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_func/func.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
     "Python.operator.executor": "Run",
     "Python.set.executor": "Run",
     "Python.while.executor": "Run",
+    "Python.숫자 맞추기 게임.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -54,6 +55,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sky\03_string1" />
       <recent name="D:\sky\09_bulit_in_func" />
       <recent name="D:\sky" />
     </key>
