@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c29f7f5-1030-4c5c-8ef8-d04a3f84f263" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_func/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_func/func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_동전던지기/동전 던지기.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_동전던지기/동전 던지기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -46,6 +47,8 @@
     "Python.operator.executor": "Run",
     "Python.set.executor": "Run",
     "Python.while.executor": "Run",
+    "Python.동전 던지기.executor": "Run",
+    "Python.모듈02.executor": "Run",
     "Python.숫자 맞추기 게임.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -55,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sky\12_모듈" />
       <recent name="D:\sky\03_string1" />
       <recent name="D:\sky\09_bulit_in_func" />
       <recent name="D:\sky" />

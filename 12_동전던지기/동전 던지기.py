@@ -47,4 +47,5 @@ while True:
         print(f"축하합니다! 시용자가{user_wins}승으로 게임에서 승리했습니다.")
     elif:
         print(f"아쉽네요... 컴퓨터가{computer_wins}승으로 게임에서 승리했습니다.")
+        break
 
