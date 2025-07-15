@@ -38,6 +38,10 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.bulit_in_func.executor": "Run",
+    "Python.class.executor": "Run",
+    "Python.class01.executor": "Run",
+    "Python.class02.executor": "Run",
+    "Python.class04.executor": "Run",
     "Python.collection.executor": "Run",
     "Python.didctionere.executor": "Run",
     "Python.for.executor": "Run",
