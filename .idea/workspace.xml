@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c29f7f5-1030-4c5c-8ef8-d04a3f84f263" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/17_txt_rag/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_txt_rag/package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_txt_rag/package/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_txt_rag/package/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_txt_rag/package/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_txt_rag/package/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_txt_rag/save.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_txt_rag/txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_except/except.py" beforeDir="false" afterPath="$PROJECT_DIR$/16_except/except.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +56,15 @@
     &quot;Python.except.executor&quot;: &quot;Run&quot;,
     &quot;Python.for.executor&quot;: &quot;Run&quot;,
     &quot;Python.func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
     &quot;Python.if.executor&quot;: &quot;Run&quot;,
     &quot;Python.inhertains.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.models.executor&quot;: &quot;Run&quot;,
     &quot;Python.operator.executor&quot;: &quot;Run&quot;,
     &quot;Python.set.executor&quot;: &quot;Run&quot;,
     &quot;Python.super.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
     &quot;Python.while.executor&quot;: &quot;Run&quot;,
     &quot;Python.동전 던지기.executor&quot;: &quot;Run&quot;,
     &quot;Python.멀티.executor&quot;: &quot;Run&quot;,
@@ -90,5 +101,16 @@
       <updated>1751515325120</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
